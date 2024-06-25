@@ -1,2 +1,1 @@
-# An-inventory-management-system-for-tracking-products-and-stock-levels.
-main.py: Main Python script for managing inventory operations. database.sql: SQL script for creating the database schema. config.py: Configuration file for database credentials. README.md: Description of the project and setup instructions. .gitignore: Ignore virtual environment, .pyc files, and sensitive config files.
+The Inventory Management System is a simple and efficient tool designed to help businesses keep track of their products and stock levels. This application allows users to add new products, update stock quantities, and view current inventory levels. It aims to provide a user-friendly interface for managing inventory data and ensuring that stock levels are accurately maintained.
